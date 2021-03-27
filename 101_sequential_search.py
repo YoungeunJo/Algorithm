@@ -14,7 +14,7 @@ print('location =', location)
 
 x = 4
 location = seqsearch(len(S) - 1, S, x)
-print('location=', location)
+print('location=', location) 
 
 """
 - 문제 : 어떤 수 x가 n개의 수로 구성된 리스트 S에 존재하는가?
